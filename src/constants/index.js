@@ -1,0 +1,1 @@
+export const urlFecth = 'https://api.github.com/users/'
